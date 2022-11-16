@@ -2,7 +2,7 @@ import ReactGA from 'react-ga'
 
 export const initGA = () => {
   // console.log('GA init')
-  ReactGA.initialize('G-RNJFHWKV3N')
+  ReactGA.initialize('UA-249566905-1')
 }
 
 export const logPageView = () => {
