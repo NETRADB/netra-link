@@ -1,5 +1,3 @@
-import DonateButton from "./DonateButton";
-import packageJson from '../package.json';
 
 function FooterDisclaimer() {
   return (
