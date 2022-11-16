@@ -1,22 +1,22 @@
 [
   {
     "title": "Discord Netra Community",
-    "url": "https://discord.gg/sYzqh9q5",
+    "url": "https://discord.gg/p8KVcePZ",
     "emoji": "👾"
   },
   {
     "title": "Pendaftaran Pengurus Netra",
-    "url": "https://",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdcz8XfIDc2r33qXY09M6UBZTSfAbXatSLQLk8Uu9lA1Rf7CA/viewform?usp=share_link",
     "emoji": "🤝"
   }, 
+  {
+    "title": "Slide Profile Netra",
+    "url": "https://docs.google.com/presentation/d/1AVtII_jwLH_OiKPtOFIBr4mlb_T9N1QBy_z6ePgHW-Q/edit?usp=sharing",
+    "emoji": "💻"
+  },
   {
     "title": "Dokumen Profile Netra",
     "url": "https://docs.google.com/document/d/1r1fx0zEG6C-yVrcVE0Cs1ZNc-gO_Yw-NSvpIERfRds0/edit?usp=sharing",
     "emoji": "📄"
-  },
-  {
-    "title": "Slide Profile Netra",
-    "url": "https://",
-    "emoji": "💻"
   }
 ]
