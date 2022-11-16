@@ -7,7 +7,7 @@ function LinkList() {
         {links.map(link => (
           <li className="mb-4" key={link.title}>
             <a
-              className="relative transition duration-200 font-bold bg-green-500 border-green-500 border-2 hover:bg-transparent py-4 w-100 block text-center text-gray-800 hover:text-green-400 rounded-lg pl-12 md:px-12"
+              className="relative transition duration-200 font-bold bg-biru-500 border-biru-800 border-2 hover:bg-transparent py-4 w-100 block text-center text-white hover:text-biru-400 rounded-lg pl-12 md:px-12"
               href={link.url}
               alt={link.title}
               rel="noopener noreferrer"

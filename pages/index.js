@@ -24,7 +24,7 @@ function IndexPage({ buildTimestamp }){
   }, []);
 
   return (
-    <div className="px-4 bg-slate-900 text-white flex flex-col min-h-screen">
+    <div className="bg-white px-4 text-black flex flex-col min-h-screen">
       {/* FontAwesome CDN style tag */}
       <Head>
         <title>Netra Comunity | Link</title>
